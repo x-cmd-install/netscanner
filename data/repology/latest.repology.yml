@@ -1,0 +1,264 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: netscanner
+  binname: netscanner-doc
+  visiblename: netscanner-doc
+  version: 0.5.1
+  origversion: 0.5.1-r1
+  status: outdated
+  summary: Network scanning & diagnostic tool (documentation)
+  maintainers:
+    - chlebik@gmail.com
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.5.1
+  origversion: 0.5.1-r1
+  status: outdated
+  summary: Network scanning & diagnostic tool
+  maintainers:
+    - chlebik@gmail.com
+  licenses:
+    - MIT
+- repo: altsisyphus
+  srcname: netscanner
+  binnames:
+    - netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-alt1
+  status: newest
+  summary: Terminal Network scanner & diagnostic tool with modern TUI.
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Networking/Other
+- repo: arch
+  subrepo: extra
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-1
+  status: newest
+  summary: Network scanner
+  licenses:
+    - MIT
+- repo: fedora_39
+  subrepo: release
+  srcname: netscanner
+  binnames:
+    - netscanner
+    - golang-github-r4ygm-netscanner-devel
+  visiblename: netscanner
+  version: "0"
+  origversion: 0-0.9.20201116git8baab36.fc39
+  status: outdated
+  summary: TCP/UDP scanner to find open or closed ports
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: netscanner
+  binnames:
+    - netscanner
+    - golang-github-r4ygm-netscanner-devel
+  visiblename: netscanner
+  version: "0"
+  origversion: 0-0.12.20201116git8baab36.fc40
+  status: outdated
+  summary: TCP/UDP scanner to find open or closed ports
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: netscanner
+  binnames:
+    - netscanner
+    - golang-github-r4ygm-netscanner-devel
+  visiblename: netscanner
+  version: "0"
+  origversion: 0-0.13.20201116git8baab36.fc41
+  status: outdated
+  summary: TCP/UDP scanner to find open or closed ports
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: netscanner
+  binnames:
+    - netscanner
+    - golang-github-r4ygm-netscanner-devel
+  visiblename: netscanner
+  version: "0"
+  origversion: 0-0.14.20201116git8baab36.fc42
+  status: outdated
+  summary: TCP/UDP scanner to find open or closed ports
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: null
+  status: newest
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+- repo: homebrew
+  srcname: netscanner
+  visiblename: netscanner
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+- repo: kali_rolling
+  subrepo: main
+  srcname: netscanner
+  binnames:
+    - netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-0kali1
+  status: newest
+  maintainers:
+    - devel@kali.org
+    - contact@arszilla.com
+    - daniruiz@kali.org
+  categories:
+    - misc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-1
+  status: newest
+  summary: Network scanner
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-1
+  status: newest
+  summary: Network scanner
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-1
+  status: newest
+  summary: Network scanner
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.3
+  origversion: null
+  status: outdated
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.3
+  origversion: null
+  status: outdated
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.41
+  origversion: null
+  status: outdated
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: null
+  status: newest
+  summary: Network scanner with features like WiFi scanning, packetdump and more
+  maintainers:
+    - raf@notashelf.dev
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.43
+  origversion: 0.6.43-1
+  status: newest
+  summary: Network scanner
+  licenses:
+    - MIT
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: netscanner
+  binname: netscanner
+  visiblename: netscanner
+  version: 0.6.41
+  origversion: 0.6.41_1
+  status: outdated
+  summary: Network scanner & diagnostic tool with modern TUI
+  maintainers:
+    - bnyro@tutanota.com
+  licenses:
+    - MIT
