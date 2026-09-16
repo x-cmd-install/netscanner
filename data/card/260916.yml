@@ -114,4 +114,3 @@ total:
 ---
 
 ---
-{"id":349685242,"author":{"login":"Chleba","id":202436,"node_id":"MDQ6VXNlcjIwMjQzNg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOK4EQyM4U18X6","tag_name":"v0.6.43","target_commitish":"main","name":"v0.6.43","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-06T16:36:54Z","updated_at":"2026-07-06T16:38:09Z","published_at":"2026-07-06T16:38:09Z","assets":[],"body":"- fixed blocking sys calls\r\n- update crates versions\r\n- update mac oui db\r\n- fixed switching interfaces\r\n- fixed rendering issues","reactions":{"total_count":5,"+1":1,"-1":0,"laugh":0,"hooray":1,"confused":0,"heart":1,"rocket":1,"eyes":1}}
