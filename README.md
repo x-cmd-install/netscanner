@@ -45,12 +45,12 @@ Total: **5,704** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 1 | 0 | 0 | 1 | 1 | 6 |
-| 360d | 2025-11-04 | 2 | 1 | 0 | 4 | 1 | 10 |
-| last720d | 2024-11-09 | 5 | 3 | 0 | 12 | 2 | 26 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 1 | 0 | 0 | 1 | 1 | 6 |
+| 360d | 2025-11-05 | 2 | 1 | 0 | 4 | 1 | 10 |
+| last720d | 2024-11-10 | 5 | 3 | 0 | 12 | 2 | 26 |
 
 ## Distribution status
 
@@ -73,4 +73,4 @@ Install metadata for netscanner lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:47:48Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:35:07Z._
