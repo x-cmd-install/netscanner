@@ -1,12 +1,12 @@
 - repo: alpine_edge
   subrepo: testing
   srcname: netscanner
-  binname: netscanner-doc
-  visiblename: netscanner-doc
+  binname: netscanner
+  visiblename: netscanner
   version: 0.5.1
   origversion: 0.5.1-r1
   status: outdated
-  summary: Network scanning & diagnostic tool (documentation)
+  summary: Network scanning & diagnostic tool
   maintainers:
     - chlebik@gmail.com
   licenses:
@@ -14,12 +14,12 @@
 - repo: alpine_edge
   subrepo: testing
   srcname: netscanner
-  binname: netscanner
-  visiblename: netscanner
+  binname: netscanner-doc
+  visiblename: netscanner-doc
   version: 0.5.1
   origversion: 0.5.1-r1
   status: outdated
-  summary: Network scanning & diagnostic tool
+  summary: Network scanning & diagnostic tool (documentation)
   maintainers:
     - chlebik@gmail.com
   licenses:
@@ -139,28 +139,6 @@
     - daniruiz@kali.org
   categories:
     - misc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: netscanner
-  binname: netscanner
-  visiblename: netscanner
-  version: 0.6.43
-  origversion: 0.6.43-1
-  status: newest
-  summary: Network scanner
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: netscanner
-  binname: netscanner
-  visiblename: netscanner
-  version: 0.6.43
-  origversion: 0.6.43-1
-  status: newest
-  summary: Network scanner
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: netscanner
