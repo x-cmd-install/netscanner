@@ -45,24 +45,12 @@ Total: **5,704** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 1 | 0 | 1 | 1 | 1 | 6 |
-| 360d | 2025-11-29 | 2 | 1 | 1 | 3 | 1 | 10 |
-| last720d | 2024-12-04 | 4 | 2 | 1 | 11 | 2 | 15 |
-
-## Distribution status
-
-Reported by **22** distros on [repology.org](https://repology.org/project/netscanner). **9** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.6.43` | ✅ latest |
-| Homebrew | `0.6.43` | ✅ latest |
-| Nix unstable | `0.6.43` | ✅ latest |
-| Void | `0.6.41` | ⚠️ outdated |
-| Alpine edge | `0.5.1` | ⚠️ outdated |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 1 | 0 | 1 | 1 | 1 | 6 |
+| 360d | 2025-11-30 | 2 | 1 | 1 | 3 | 1 | 10 |
+| last720d | 2024-12-05 | 4 | 2 | 1 | 11 | 2 | 15 |
 
 ## Improve this data
 
@@ -73,4 +61,4 @@ Install metadata for netscanner lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:09:18Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:00Z._
