@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.43"
   latestRelease: "v0.6.43"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:59:53Z
+  collectedAt: 2026-11-28T09:03:52Z
 timeline:
   created: 2023-12-10
   lastCommit: 2026-11-26
@@ -29,7 +29,7 @@ language:
 totalBytes: 386075
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -37,7 +37,7 @@ recent:
     openIssue: 0
     commit: 7
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -45,7 +45,7 @@ recent:
     openIssue: 0
     commit: 7
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 1
@@ -53,7 +53,7 @@ recent:
     openIssue: 0
     commit: 7
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 1
     mergedPR: 0
     openPR: 1
@@ -61,7 +61,7 @@ recent:
     openIssue: 1
     commit: 13
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 2
     mergedPR: 1
     openPR: 1
@@ -69,7 +69,7 @@ recent:
     openIssue: 1
     commit: 17
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 4
     mergedPR: 2
     openPR: 1
@@ -85,7 +85,7 @@ total:
   commit: 191
 ---
 path: /home/runner/.x-repo/github.com/Chleba/netscanner
-collectedAt: 2026-11-27T09:59:58Z
+collectedAt: 2026-11-28T09:03:52Z
 loc:
   Rust:
     code: 9011
